@@ -1,0 +1,13 @@
+Kolkata Knight Riders,Kolkata
+Chennai Super Kings,Chennai
+Royal Challengers Bangalore,Bangalore
+Kings XI Punjab,Chandigarh
+Delhi Daredevils,Delhi
+Rajasthan Royals,Jaipur
+Mumbai Indians,Mumbai
+Deccan Chargers,Hyderabad	
+Pune Warriors,Pune	
+Kochi Tuskers Kerala,Kochi
+Sunrisers Hyderabad,Hyderabad	
+Rising Pune Supergiants,Pune
+Gujarat Lions,Rajkot
